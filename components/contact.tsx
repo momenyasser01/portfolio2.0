@@ -32,7 +32,7 @@ const Contact = () => {
                 d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
               ></path>
             </svg>
-            <span>San Francisco, CA</span>
+            <span>Cairo, Egypt</span>
           </div>
           <div className="max-w-lg mx-auto text-left">
             <form className="space-y-6">

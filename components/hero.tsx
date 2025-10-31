@@ -1,5 +1,3 @@
-import Tag from './tag'
-
 const Hero = () => {
   return (
     <div className="text-center mb-12">
